@@ -1,0 +1,24 @@
+body {
+    font-family: 'lora';
+    text-align: center;
+    background-color: #728ba8;
+
+}
+
+img {
+    width: 30%;
+    transition: width 1s;
+    transition-duration: 0;
+
+}
+.contact {
+    padding: 40px 0px 0px;
+}
+
+img:hover {
+    width: 50%;
+}
+.container {
+    position: relative;
+    background-color: #6c87a5;
+}
